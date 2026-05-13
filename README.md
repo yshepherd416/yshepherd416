@@ -34,21 +34,25 @@ Analytical thinking • Scientific reasoning • UX awareness • Clear communic
 
 Below are selected projects that demonstrate my technical range and interest in environmental and geospatial applications:
 
-### **ReefWatch Bleaching Tracker**  
-A web tool for monitoring coral bleaching patterns using environmental indicators.  
+### **OceanScope - Ocean Health Dashboard**  
+Purpose: Visualize key ocean indicators (temperature, pH, plastic level, sea level)
 🔗 https://github.com/yshepherd416/oceanscope-dashboard.git
 
-### **SeaGuard Ocean Cleanup Tracker**  
-Tracks marine debris and cleanup activity with a clean, data‑driven interface.  
-🔗 https://github.com/yshepherd416/seaguard-ocean-cleanup-tracker.git
+### **Bluefin Species Explorer**  
+A species‑focused visualization tool for exploring marine biodiversity.  
+🔗 https://github.com/yshepherd416/bluefin-species-explorer.git
 
 ### **TideLine Coastal Simulator**  
 Interactive simulation showing coastal changes and tide behavior.  
 🔗 https://github.com/yshepherd416/tideline-coastal-simulator.git
 
-### **Bluefin Species Explorer**  
-A species‑focused visualization tool for exploring marine biodiversity.  
-🔗 https://github.com/yshepherd416/bluefin-species-explorer.git
+### **ReefWatch Bleaching Tracker**  
+A web tool for monitoring coral bleaching patterns using environmental indicators.  
+🔗 https://github.com/yshepherd416/reefwatch-bleaching-tracker.git
+
+### **SeaGuard Ocean Cleanup Tracker**  
+Tracks marine debris and cleanup activity with a clean, data‑driven interface.  
+🔗 https://github.com/yshepherd416/seaguard-ocean-cleanup-tracker.git
 
 ---
 
@@ -63,4 +67,5 @@ A species‑focused visualization tool for exploring marine biodiversity.
 
 ## 📫 Contact
 
-Feel free to explore my repositories or reach out if you'd like to connect.
+Feel free to explore my repositories or reach out if you'd like to connect 
+🔗 **LinkedIn:** www.linkedin.com/in/yuxing-shepherd-26a6251a9
