@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm Yuxing Shepherd
 
-<!--
-**yshepherd416/yshepherd416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Web Developer with a hybrid background in GIS, Geospatial Technology, and a Bachelor of Science.  
+I focus on building clean, responsive, and user‑friendly applications, supported by strong analytical and scientific reasoning.
 
-Here are some ideas to get you started:
+I am actively seeking opportunities to contribute to front‑end development teams, expand my technical skillset, and bring value through adaptability, problem‑solving, and clear communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Professional Summary
+
+- Strong foundation in **HTML, CSS, JavaScript**, and front‑end development principles  
+- Hands‑on experience applying **GIS and spatial analysis** through academic, project‑based, and independent work  
+- Skilled in **data interpretation, visualization, and structured documentation**  
+- Adaptable, detail‑oriented, and comfortable learning new tools and technologies quickly  
+- Passionate about creating intuitive, accessible, and visually clear digital experiences  
+
+---
+
+## 🔧 Technical Skills
+
+**Web Development:**  
+HTML • CSS • JavaScript • Responsive Design • Git • GitHub  
+
+**GIS & Geospatial Technology:**  
+ArcGIS • QGIS • Spatial Analysis • Data Visualization  
+
+**Additional Strengths:**  
+Analytical thinking • Scientific reasoning • UX awareness • Clear communication  
+
+---
+
+## 🚀 Featured Projects
+
+Below are selected projects that demonstrate my technical range and interest in environmental and geospatial applications:
+
+### **ReefWatch Bleaching Tracker**  
+A web tool for monitoring coral bleaching patterns using environmental indicators.  
+🔗 *(Add repository link)*
+
+### **SeaGuard Ocean Cleanup Tracker**  
+Tracks marine debris and cleanup activity with a clean, data‑driven interface.  
+🔗 *(Add repository link)*
+
+### **TideLine Coastal Simulator**  
+Interactive simulation showing coastal changes and tide behavior.  
+🔗 *(Add repository link)*
+
+### **Bluefin Species Explorer**  
+A species‑focused visualization tool for exploring marine biodiversity.  
+🔗 *(Add repository link)*
+
+### **Project 5 Name**  
+Short description of what the project does and what you built.  
+🔗 *(Add repository link)*
+
+---
+
+## 🌱 Current Focus
+
+- Strengthening JavaScript and front‑end development  
+- Building polished, well‑documented portfolio projects  
+- Applying GIS and scientific analysis to digital tools  
+- Preparing for entry‑level web development roles  
+
+---
+
+## 📫 Contact
+
+Feel free to explore my repositories or reach out if you'd like to connect.
