@@ -36,23 +36,19 @@ Below are selected projects that demonstrate my technical range and interest in 
 
 ### **ReefWatch Bleaching Tracker**  
 A web tool for monitoring coral bleaching patterns using environmental indicators.  
-🔗 *(Add repository link)*
+🔗 https://github.com/yshepherd416/oceanscope-dashboard.git
 
 ### **SeaGuard Ocean Cleanup Tracker**  
 Tracks marine debris and cleanup activity with a clean, data‑driven interface.  
-🔗 *(Add repository link)*
+🔗 https://github.com/yshepherd416/seaguard-ocean-cleanup-tracker.git
 
 ### **TideLine Coastal Simulator**  
 Interactive simulation showing coastal changes and tide behavior.  
-🔗 *(Add repository link)*
+🔗 https://github.com/yshepherd416/tideline-coastal-simulator.git
 
 ### **Bluefin Species Explorer**  
 A species‑focused visualization tool for exploring marine biodiversity.  
-🔗 *(Add repository link)*
-
-### **Project 5 Name**  
-Short description of what the project does and what you built.  
-🔗 *(Add repository link)*
+🔗 https://github.com/yshepherd416/bluefin-species-explorer.git
 
 ---
 
