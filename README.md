@@ -30,9 +30,9 @@ Analytical thinking • Scientific reasoning • UX awareness • Clear communic
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects in progress
 
-Below are selected projects that demonstrate my technical range and interest in environmental and geospatial applications:
+Below are selected projects in progress that demonstrate my technical range and interest in environmental and geospatial applications:
 
 ### **OceanScope – Ocean Health Dashboard**  
 Visualizes key ocean indicators such as temperature, pH, plastic levels, and sea level.  
