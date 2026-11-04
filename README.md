@@ -36,6 +36,7 @@ Below are selected projects in progress that demonstrate my technical range and 
 
 ### **OceanScope – Ocean Health Dashboard**  
 Visualizes key ocean indicators such as temperature, pH, plastic levels, and sea level.  
+Update: I have decided to focus on temperature first.
 🔗 https://github.com/yshepherd416/oceanscope-dashboard
 
 ### **Bluefin Species Explorer**  
