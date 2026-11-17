@@ -45,10 +45,6 @@ Update: I have decided to focus on temperature first.
 A species‑focused visualization tool for exploring marine biodiversity.  
 🔗 https://github.com/yshepherd416/bluefin-species-explorer
 
-### **TideLine Coastal Simulator**  
-Interactive simulation showing coastal changes and tide behavior.  
-🔗 https://github.com/yshepherd416/tideline-coastal-simulator
-
 ### **ReefWatch Bleaching Tracker**  
 A web tool for monitoring coral bleaching patterns using environmental indicators.  
 🔗 https://github.com/yshepherd416/reefwatch-bleaching-tracker
